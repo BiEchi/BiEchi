@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**BiEchi/BiEchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Jack. I’m an M.S. student in Computer Science at University of Illinois Urbana-Champaign, advised by Prof. Chengxiang Zhai and Prof. Heng Ji in the Blender NLP Lab. At the core of my research in usable and reliable intelligence, I strive to equip machines with interactive communications and up-to-date knowledge using explainable methods. The ultimate aim of my research is to promote engagement and truthfulness in information access and generation, through a variety of explainable methods with low bias, easy evaluation methods and high computational efficiency.
 
-Here are some ideas to get you started:
+Bio: Jack Bai is an M.S. student in Computer Science at UIUC, working as the Research Assistant of Prof. Chengxiang Zhai on interactive knowledge acquisition, co-advised by Prof. Heng Ji. Before master’s, he obtained a dual degree from Zhejiang University and UIUC in Computer Engineering. He was a research intern at Microsoft Research, working on incident root cause prediction using LM with Dr. Shilin He, and a member of the UIUC Alexa ChatBot team researching Internet search query generation. He was also a research intern working on distributed LM training with Prof. Volodymyr Kindtatenko at NCSA. Except experience mentioned above, his work also reflects interests in financial time series prediction, code generation, open-domain QA, software frameworks for deep learning, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<a href="https://rese1f.github.io/" target="_blank">
+<img src=https://img.shields.io/badge/home-%239cf.svg?&style=for-the-badge&logo=github&logoColor=white alt=website style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/rese1f" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/wenhao-chai-658274238/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/re5e1f" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+ <a href="./src/wechat.jpg" target="_blank">
+<img src=https://img.shields.io/badge/wechat-%a3c62b.svg?&style=for-the-badge&logo=wechat&logoColor=white alt=wechat style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.instagram.com/rese1f/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-e1306c.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+<b><i class="fa-solid fa-pen-to-square" style="font-size:24px"></i> Updates:</b><br><br>
