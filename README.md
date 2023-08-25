@@ -23,6 +23,3 @@ Bio: Jack Bai is an M.S. student in Computer Science at UIUC, working as the Res
 <img src=https://img.shields.io/badge/instagram-e1306c.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>
-
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-<b><i class="fa-solid fa-pen-to-square" style="font-size:24px"></i> Updates:</b><br><br>
